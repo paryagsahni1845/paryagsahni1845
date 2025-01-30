@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Paryag Sahni
 - 👀 I’m interested in AIML
-- 🌱 I’m currently learning Django
 - 📫 How to reach me - paryagsahni2@gmail.com
 
 
